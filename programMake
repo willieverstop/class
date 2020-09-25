@@ -1,0 +1,8 @@
+#Makefile 
+all: program
+program : program.o
+ld-o$@$+
+program.o :program.s
+	as -g -mfpu=vfpv2-o $@$<
+clean:
+rm -vf program *.o

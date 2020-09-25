@@ -1,0 +1,271 @@
+Linux ubuntu 5.4.0-1019-raspi #21-Ubuntu SMP PREEMPT Mon Sep 14 07:25:17 UTC 2020 armv7l armv7l armv7l GNU/Linux
+Linux ubuntu 5.4.0-1019-raspi #21-Ubuntu SMP PREEMPT Mon Sep 14 07:25:17 UTC 2020 armv7l armv7l armv7l GNU/Linux
+5151.97 19468.74
+Character devices:
+  1 mem
+  2 pty
+  3 ttyp
+  4 /dev/vc/0
+  4 tty
+  4 ttyS
+  5 /dev/tty
+  5 /dev/console
+  5 /dev/ptmx
+  5 ttyprintk
+  7 vcs
+ 10 misc
+ 13 input
+ 14 sound/mixer
+ 14 sound/sequencer
+ 14 sound/dsp
+ 14 sound/audio
+ 14 sound/sequencer2
+ 14 sound/mixer1
+ 14 sound/dsp1
+ 14 sound/audio1
+ 21 sg
+ 29 fb
+ 81 video4linux
+ 89 i2c
+108 ppp
+116 alsa
+128 ptm
+136 pts
+153 spi
+180 usb
+189 usb_device
+204 ttyAMA
+204 ttyMAX
+226 drm
+234 uio
+235 vcsm
+236 vchiq
+237 hidraw
+238 rpmb
+239 bcm2835-gpiomem
+240 vcio
+241 vc-mem
+242 bsg
+243 watchdog
+244 ptp
+245 pps
+246 cec
+247 BaseRemoteCtl
+248 rtc
+249 dma_heap
+250 dax
+251 dimmctl
+252 ndctl
+253 tpm
+254 gpiochip
+506 aux
+507 media
+508 rpivid-vp9mem
+509 rpivid-h264mem
+510 rpivid-intcmem
+511 rpivid-hevcmem
+
+Block devices:
+  7 loop
+  8 sd
+  9 md
+ 11 sr
+ 65 sd
+ 66 sd
+ 67 sd
+ 68 sd
+ 69 sd
+ 70 sd
+ 71 sd
+128 sd
+129 sd
+130 sd
+131 sd
+132 sd
+133 sd
+134 sd
+135 sd
+179 mmc
+253 device-mapper
+254 mdp
+259 blkext
+Linux version 5.4.0-1019-raspi (buildd@bos02-arm64-063) (gcc version 9.3.0 (Ubuntu 9.3.0-10ubuntu2)) #21-Ubuntu SMP PREEMPT Mon Sep 14 07:25:17 UTC 2020
+processor	: 0
+model name	: ARMv7 Processor rev 3 (v7l)
+BogoMIPS	: 108.00
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd08
+CPU revision	: 3
+
+processor	: 1
+model name	: ARMv7 Processor rev 3 (v7l)
+BogoMIPS	: 108.00
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd08
+CPU revision	: 3
+
+processor	: 2
+model name	: ARMv7 Processor rev 3 (v7l)
+BogoMIPS	: 108.00
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd08
+CPU revision	: 3
+
+processor	: 3
+model name	: ARMv7 Processor rev 3 (v7l)
+BogoMIPS	: 108.00
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd08
+CPU revision	: 3
+
+Hardware	: BCM2711
+Revision	: b03112
+Serial		: 100000005e57ddcd
+Model		: Raspberry Pi 4 Model B Rev 1.2
+Linux ubuntu 5.4.0-1019-raspi #21-Ubuntu SMP PREEMPT Mon Sep 14 07:25:17 UTC 2020 armv7l armv7l armv7l GNU/Linux
+5166.50 19523.48
+Character devices:
+  1 mem
+  2 pty
+  3 ttyp
+  4 /dev/vc/0
+  4 tty
+  4 ttyS
+  5 /dev/tty
+  5 /dev/console
+  5 /dev/ptmx
+  5 ttyprintk
+  7 vcs
+ 10 misc
+ 13 input
+ 14 sound/mixer
+ 14 sound/sequencer
+ 14 sound/dsp
+ 14 sound/audio
+ 14 sound/sequencer2
+ 14 sound/mixer1
+ 14 sound/dsp1
+ 14 sound/audio1
+ 21 sg
+ 29 fb
+ 81 video4linux
+ 89 i2c
+108 ppp
+116 alsa
+128 ptm
+136 pts
+153 spi
+180 usb
+189 usb_device
+204 ttyAMA
+204 ttyMAX
+226 drm
+234 uio
+235 vcsm
+236 vchiq
+237 hidraw
+238 rpmb
+239 bcm2835-gpiomem
+240 vcio
+241 vc-mem
+242 bsg
+243 watchdog
+244 ptp
+245 pps
+246 cec
+247 BaseRemoteCtl
+248 rtc
+249 dma_heap
+250 dax
+251 dimmctl
+252 ndctl
+253 tpm
+254 gpiochip
+506 aux
+507 media
+508 rpivid-vp9mem
+509 rpivid-h264mem
+510 rpivid-intcmem
+511 rpivid-hevcmem
+
+Block devices:
+  7 loop
+  8 sd
+  9 md
+ 11 sr
+ 65 sd
+ 66 sd
+ 67 sd
+ 68 sd
+ 69 sd
+ 70 sd
+ 71 sd
+128 sd
+129 sd
+130 sd
+131 sd
+132 sd
+133 sd
+134 sd
+135 sd
+179 mmc
+253 device-mapper
+254 mdp
+259 blkext
+Linux version 5.4.0-1019-raspi (buildd@bos02-arm64-063) (gcc version 9.3.0 (Ubuntu 9.3.0-10ubuntu2)) #21-Ubuntu SMP PREEMPT Mon Sep 14 07:25:17 UTC 2020
+processor	: 0
+model name	: ARMv7 Processor rev 3 (v7l)
+BogoMIPS	: 135.00
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd08
+CPU revision	: 3
+
+processor	: 1
+model name	: ARMv7 Processor rev 3 (v7l)
+BogoMIPS	: 135.00
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd08
+CPU revision	: 3
+
+processor	: 2
+model name	: ARMv7 Processor rev 3 (v7l)
+BogoMIPS	: 135.00
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd08
+CPU revision	: 3
+
+processor	: 3
+model name	: ARMv7 Processor rev 3 (v7l)
+BogoMIPS	: 135.00
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd08
+CPU revision	: 3
+
+Hardware	: BCM2711
+Revision	: b03112
+Serial		: 100000005e57ddcd
+Model		: Raspberry Pi 4 Model B Rev 1.2
